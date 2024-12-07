@@ -1,0 +1,60 @@
+body {
+background-color: #51829B;
+}
+
+.btn-close {
+    margin-right: 20px;
+}
+
+.add-buttot {
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #FF9D3D
+
+}
+.add-buttot:hover {
+    font-weight: 500;
+    background-color: #f29639
+
+}
+
+.bigger_headline {
+    padding-left: 35%;
+ }
+
+.ToDoText {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.smaller-headline{
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 30px 0px;
+}
+
+.form-check-input {
+    background-color: #FF9D3D;
+    border-color: #FF9D3D;
+}
+
+.form-check-input:checked {
+    background-color: #FF9D3D;
+    border-color: #FF9D3D;
+}
+
+.custom-checkbox{
+    transform: scale(1.5)
+}
+
+.todo-number{
+    font-size: 20px;
+}
+
+.shadow-box {
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    padding: 50px 25px 50px 25px;
+    background-color: #F5F5F5;
+}
